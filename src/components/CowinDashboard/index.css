@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #161625;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+.Cowin-dashboard-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 80%;
+  max-width: 1110px;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+.website-image {
+  width: 25px;
+  height: 25px;
+}
+.main-heading {
+  font-family: 'Roboto';
+  color: #64c2a6;
+  font-size: 78px;
+}
