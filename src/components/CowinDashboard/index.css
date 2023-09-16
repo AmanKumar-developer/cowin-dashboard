@@ -8,7 +8,6 @@
 .Cowin-dashboard-container {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   width: 80%;
   max-width: 1110px;
 }
@@ -24,5 +23,10 @@
 .main-heading {
   font-family: 'Roboto';
   color: #64c2a6;
-  font-size: 78px;
+  font-size: 24px;
+}
+.cowin-heading {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-weight: bold;
 }
